@@ -1,0 +1,32 @@
+/* Centers the form on the page */
+body {
+display: flex;
+flex-direction: column; 
+justify-content: center; /* horizontal center */
+align-items: center;     /* vertical center */
+height: 100vh;           /* full screen height */
+font-family: Arial;
+}
+
+/* Styles the form box*/
+form {
+display: flex;
+flex-direction: column;  /* stack elements vertically */
+gap: 10px;               /* clean spacing between elements */
+width: 250px;            /* consistent width */
+}
+
+/* Align input fields*/
+input {
+padding: 5px;
+}
+
+/* Style button consistently*/
+button {
+padding: 8px;
+}
+
+a {
+margin-top: 10px;        /*space between form and link */
+text-align: center;      
+}
