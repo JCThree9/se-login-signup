@@ -1,0 +1,2 @@
+This is the README for the SE signup/login page project. 
+The project currently contains only a rudimentary implemnetation of the signup and login pages as per the inbstructions. Currently no data is saved in anyway.
